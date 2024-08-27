@@ -176,10 +176,18 @@ int main()
 
 ## Outputs :
 ### 1.
-### 2.
-### 3.
-### 4.
-### 5.
+![Screenshot 2024-08-27 203149](https://github.com/user-attachments/assets/5ee0d645-3460-4969-8d88-9e7b1186f78f)
 
+### 2.
+![Screenshot 2024-08-27 203210](https://github.com/user-attachments/assets/bf5eeb93-09a5-49aa-94ff-609209085346)
+
+### 3.
+![Screenshot 2024-08-27 203232](https://github.com/user-attachments/assets/90e89566-3106-4de3-909d-f644a7ecb382)
+
+### 4.
+![Screenshot 2024-08-27 203247](https://github.com/user-attachments/assets/ce25b62c-4dc3-41df-95ac-000c098949d3)
+
+### 5.
+![Screenshot 2024-08-27 203308](https://github.com/user-attachments/assets/aaf10251-d6c7-4ab7-a6cc-0c83fd3dc7fc)
 
 ## Conclusion :
