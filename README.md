@@ -230,19 +230,19 @@ int main()
 
 ## Outputs :
 ### 1.
-
+![Screenshot 2024-08-28 114631](https://github.com/user-attachments/assets/c92b4316-e7b1-4a6c-bd8f-16f2557cc49a)
 
 ### 2.
-
+![Screenshot 2024-08-28 114654](https://github.com/user-attachments/assets/929b5257-a148-498a-b7c3-462684e478ff)
 
 ### 3.
-
+![Screenshot 2024-08-28 114707](https://github.com/user-attachments/assets/a8f0a3a1-b469-4e3f-be3e-5b8c486731fb)
 
 ### 4.
-
+![Screenshot 2024-08-28 114722](https://github.com/user-attachments/assets/08e8b98b-d555-49c5-a89a-c51a12dda7a8)
 
 ### 5.
-
+![Screenshot 2024-08-28 114752](https://github.com/user-attachments/assets/36b20887-a358-4ba8-acab-1998c955aea0)
 
 ## Conclusion :
 - **Classes** define the structure and behaviors of objects. They encapsulate data and methods into a single unit.
