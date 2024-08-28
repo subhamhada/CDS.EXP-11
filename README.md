@@ -4,7 +4,7 @@
 To study and implement Classes and Objects
 
 ## Software :
-vs code
+Vs code
 
 ## Theory :
 ### classes :
@@ -21,7 +21,7 @@ It defines a data structure by combining data (attributes) and methods (function
 An object is created from a class. We have already created the class named MyClass, so now we can use this to create objects.<br>
 An instance of a class. It represents a specific realization of the class, holding actual values for the attributes defined by the class.An object is created by instantiating the class. This involves calling the class as if it were a function.
 
-### keywords in classes and objects :
+### Keywords in classes and objects :
 ### 1. class 
 Defines a new class type
 ### 2. Public 
