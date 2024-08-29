@@ -54,13 +54,21 @@ Access specifiers determine the visibility and accessibility of class members (a
 | **Protected**    | Members are accessible within the class and subclasses. | Limited access (prefix with `_`). | `self._attribute1` |
 
 ### Global and Local Variables
-***Global Variables***:
-- **Definition**: Variables declared outside of any function or class. They are accessible from any part of the program.
-- **Scope**: Entire program.
+****Global Variables****:
 
-***Local Variables***:
-- **Definition**: Variables declared within a function or block. They are only accessible within that function or block.
+Global variables are declared outside of functions or blocks, usually at the top of a program or in a separate file. They are accessible from any part of the program and retain their value throughout the program's lifetime. While useful for shared data, their widespread accessibility can lead to unintended side effects and make debugging more challenging, particularly in large programs. They are commonly used for values needed across multiple parts of the program
+- **Declaration**: Outside of any function or block
+- **Scope**: Entire program.
+- **Usage**: Values that need to be accessed and modified by multiple parts of the program.
+- **Lifetime**: Retain their value throughout the lifetime of the program
+
+****Local Variables****:
+
+Local variables are declared within a specific block of code, such as a function or loop. They are only accessible within that block and are released from memory when the block exits. Local variables can have the same name as those in other blocks without causing conflicts, as their scope is confined to their respective block. They are typically used for temporary storage or context-specific data.
+- **Declaration**: Typically within functions or specific blocks
 - **Scope**: Limited to the function or block where they are declared.
+- **Usage**: Temporary storage, specific to a block of code
+- **Lifetime**: Created when the block is entered and destroyed when it exits
   
 ## Codes :
 ### 1.
